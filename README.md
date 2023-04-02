@@ -8,5 +8,5 @@
 
 ## Screenshots
 
-![Print do Whatsapp](img1)
-![Screenshot](img2)
+![Print do Whatsapp](https://raw.githubusercontent.com/ruanchristian/gerador-stickers/master/images/img.png)
+![Screenshot](https://raw.githubusercontent.com/ruanchristian/gerador-stickers/master/images/screenshot.png)
